@@ -1,0 +1,9 @@
+.rating_container {
+  padding: 1rem;
+}
+
+.stars_container {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
